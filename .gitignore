@@ -1,2 +1,3 @@
 .idea
 cmake-*
+vcpkg_installed
